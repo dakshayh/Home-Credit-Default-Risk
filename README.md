@@ -8,3 +8,7 @@ For a very long time, banks and other investment institutions have hired many an
 
 # Lucidchart of the data schema
 
+![Lucidchart](https://user-images.githubusercontent.com/26451635/100534961-98bfab00-31e2-11eb-9518-16899d0ed633.png)
+
+# Feature Engineering Snippet
+
