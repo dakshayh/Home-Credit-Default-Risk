@@ -12,3 +12,7 @@ For a very long time, banks and other investment institutions have hired many an
 
 # Feature Engineering Snippet
 
+![Feature_engg](https://user-images.githubusercontent.com/26451635/100534971-bee54b00-31e2-11eb-8919-fccdeeddca90.png)
+
+# Model Selection Snippet
+
