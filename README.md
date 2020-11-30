@@ -5,7 +5,7 @@ This project discusses the business use case and need for a machine learning alg
 # Data Source
 
 The data for this project was taken from Kaggle competition titled "Home Credit Default Risk". The link to the data is as below:
-https://www.kaggle.com/c/home-credit-default-risk/rules
+https://www.kaggle.com/c/home-credit-default-risk/overview
 
 # Need for a Solution & Our Approach:
 
